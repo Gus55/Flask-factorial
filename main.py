@@ -1,4 +1,3 @@
-#main.py
 from flask import Flask, jsonify, request
 from math import factorial
 
